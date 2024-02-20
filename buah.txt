@@ -2,4 +2,8 @@ nama nama buah :
 1. mangga
 2. durian
 3. apel
+<<<<<<< HEAD
 4. semangka
+=======
+4. pisang
+>>>>>>> staff

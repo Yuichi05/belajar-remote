@@ -2,7 +2,4 @@ staff PeTIK :
 1. Rudi
 2. Optimum
 3. Sukijat
-<<<<<<< HEAD
-=======
 4. Samsul
->>>>>>> staff
