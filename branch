@@ -1,0 +1,47 @@
+kode branch (branch = cadangan) agar tidak susah kalau error
+branch jg akan mengcopy semua yg ada di file utamanya
+membuat branch baru
+git branch dosen
+melihat ada brp branch
+git branch
+kumpulan kode branch
+git branch -h
+kumpulan kode git
+git -h
+berpindah ke brach
+git checkout dosen
+melihat alur pembuatan
+git log --all --decorate --oneline --graph
+membuat alias
+alias graph="git log --all --decorate --oneline --graph"
+mengecek isi file
+cat mahasantri.txt
+
+ada 3 branch
+1. branch utama mahasantri (master) ada 1 file
+2. branch dosen ada 2 file
+3. branch staff ada 3 file
+jadi ketika kita menambahkan branch baru maka isi yg ada didalam branch lama akan ikut ke branch baru
+
+menggabungkan branch baru ke branch utama
+pindah dulu mau ke branch mana
+git checkout master     (dosen/staff)
+gabung ke branch utama (master)
+git merge dosen
+
+menghapus branch
+git branch -d dosen
+
+alur brach
+petik@zenns:~/Dokumen/Documents/kak-sukma/media-pengembangan-aplikasi/p9-git$ graph
+*   e2c4c00 (HEAD -> master) Merge branch 'dosen'
+|\  
+* | b643527 Menambahkan mahasantri baru
+| | * 0c1cd2f (staff) Menambahkan file staff.txt
+| |/  
+| * f503f8b Menambahkan file dosen.txt
+|/  
+* 8695a57 Menambahkan file mahasantri.txt
+
+git add . (memasukkan semua file yg ada ke staging area) 
+
