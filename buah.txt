@@ -3,3 +3,5 @@ nama nama buah :
 2. durian
 3. apel
 4. pisang
+5. melon
+6. rambutan
