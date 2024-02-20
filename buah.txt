@@ -4,4 +4,4 @@ nama nama buah :
 3. apel
 4. semangka
 5. manggis
-6. pisang
+6. melon
