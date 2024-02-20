@@ -1,0 +1,5 @@
+nama nama buah :
+1. mangga
+2. durian
+3. apel
+4. semangka
