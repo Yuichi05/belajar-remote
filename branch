@@ -45,3 +45,6 @@ petik@zenns:~/Dokumen/Documents/kak-sukma/media-pengembangan-aplikasi/p9-git$ gr
 
 git add . (memasukkan semua file yg ada ke staging area) 
 
+merubah nama branch utama 
+git branch -M main
+
